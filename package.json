@@ -1,6 +1,6 @@
 {
   "name": "shortlyster-password",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "shortlyster password hashing and verification.",
   "main": "index.js",
   "scripts": {
