@@ -1,14 +1,14 @@
 {
-  "name": "simple-password",
+  "name": "shortlyster-password",
   "version": "1.0.1",
-  "description": "Simple password hashing and verification.",
+  "description": "shortlyster password hashing and verification.",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Prismatik/simple-password.git"
+    "url": "https://github.com/Shortlyster/shortlyster-password.git"
   },
   "keywords": [
     "password",
@@ -19,14 +19,14 @@
     "auth"
   ],
   "engines": {
-    "node": "4.1.x"
+    "node": "6.9.x"
   },
   "author": "Nathan Winch <nwinch@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Prismatik/simple-password/issues"
+    "url": "https://github.com/Shortlyster/shortlyster-password/issues"
   },
-  "homepage": "https://github.com/Prismatik/simple-password",
+  "homepage": "https://github.com/Shortlyster/shortlyster-password",
   "dependencies": {
     "bcrypt": "^0.8.5"
   },
